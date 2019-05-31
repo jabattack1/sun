@@ -1,0 +1,95 @@
+
+
+
+/*media*/
+#bannerSun *{
+  position:absolute;
+  top:0px;
+  left:0px;
+  height:720px;
+  width:1280px;
+  vertical-align: middle;
+}
+
+#spaceDrop{
+  position:absolute;
+  height:720px;
+  width:1280px;
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+
+#pianoMan{
+	position:absolute;
+	z-index:9999;
+	width:380px;
+	height:380px;
+	-webkit-transform: scaleX(-1);
+  	transform: scaleX(-1);
+  	margin-top:230px;
+  	margin-left:80px;
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+
+#moon {
+  position: fixed;
+  left: 470px;
+  top: 150px;
+  width: 320px;
+  height: 320px;
+  z-index: 9999;
+  background: url('https://i.imgur.com/aFP9ONd.gif') 50% 50% no-repeat;
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+
+
+#rapper{
+	position:absolute;
+	z-index:9999;
+	width:450px;
+	height:450px;
+	-webkit-transform: scaleX(-1);
+  	transform: scaleX(-1);
+  	margin-top:160px;
+  	margin-left:760px;
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+
+/*.auditorySign{
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  width:260px;
+  margin:0 auto;
+  z-index:100;
+}*/
+
+/*.singleSun{
+  position:absolute;
+  width:200px;
+  left:0;
+  right:0;
+  bottom:0;
+  margin:0 auto;
+  z-index:9;
+}*/
+
+/*.sun{
+  position:absolute;
+  font-family:'Arial Black';
+  left:0;
+  right:0;
+  bottom:0;
+  margin:auto 0;
+  text-align:center;
+  width:960px;
+  z-index:100;
+  font-weight:bold;
+  font-size:40px;
+  padding-bottom:30px;
+  color:#FFB71E;
+}*/
