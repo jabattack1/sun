@@ -15,8 +15,7 @@
   position:absolute;
   height:720px;
   width:1280px;
-  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%);
+
 }
 
 #pianoMan{
@@ -28,8 +27,7 @@
   	transform: scaleX(-1);
   	margin-top:230px;
   	margin-left:80px;
-  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%);
+
 }
 
 #moon {
@@ -40,8 +38,7 @@
   height: 320px;
   z-index: 9999;
   background: url('https://i.imgur.com/aFP9ONd.gif') 50% 50% no-repeat;
-  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%);
+
 }
 
 
@@ -54,8 +51,7 @@
   	transform: scaleX(-1);
   	margin-top:160px;
   	margin-left:760px;
-  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%);
+
 }
 
 /*.auditorySign{
